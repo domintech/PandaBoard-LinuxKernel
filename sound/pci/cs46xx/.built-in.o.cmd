@@ -1,0 +1,1 @@
+cmd_sound/pci/cs46xx/built-in.o :=  rm -f sound/pci/cs46xx/built-in.o; /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ar rcsD sound/pci/cs46xx/built-in.o

@@ -1,0 +1,1 @@
+cmd_kernel/debug/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/stable-kernel/dl/gcc-linaro-arm-linux-gnueabihf-4.7-2013.04-20130415_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o kernel/debug/built-in.o kernel/debug/debug_core.o kernel/debug/gdbstub.o kernel/debug/kdb/built-in.o 

@@ -1,0 +1,1 @@
+cmd_drivers/usb/gadget/libcomposite.o := /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/usb/gadget/libcomposite.o drivers/usb/gadget/usbstring.o drivers/usb/gadget/config.o drivers/usb/gadget/epautoconf.o drivers/usb/gadget/composite.o drivers/usb/gadget/functions.o 

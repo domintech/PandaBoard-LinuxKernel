@@ -1,0 +1,1 @@
+cmd_fs/nfs_common/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o fs/nfs_common/built-in.o fs/nfs_common/nfs_acl.o 

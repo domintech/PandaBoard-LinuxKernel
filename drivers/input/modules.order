@@ -1,0 +1,2 @@
+kernel/drivers/input/keyboard/matrix_keypad.ko
+kernel/drivers/input/input-polldev.ko

@@ -1,0 +1,1 @@
+cmd_drivers/input/keyboard/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/input/keyboard/built-in.o drivers/input/keyboard/atkbd.o drivers/input/keyboard/gpio_keys.o drivers/input/keyboard/twl4030_keypad.o 

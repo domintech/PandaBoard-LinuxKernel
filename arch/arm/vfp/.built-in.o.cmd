@@ -1,0 +1,1 @@
+cmd_arch/arm/vfp/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL  --no-warn-mismatch   -r -o arch/arm/vfp/built-in.o arch/arm/vfp/vfp.o 

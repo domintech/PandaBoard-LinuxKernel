@@ -1,0 +1,1 @@
+cmd_drivers/watchdog/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/watchdog/built-in.o drivers/watchdog/watchdog.o drivers/watchdog/omap_wdt.o drivers/watchdog/twl4030_wdt.o 

@@ -1,0 +1,1 @@
+cmd_sound/soc/omap/snd-soc-omap3pandora.o := /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o sound/soc/omap/snd-soc-omap3pandora.o sound/soc/omap/omap3pandora.o 

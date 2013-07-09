@@ -1,0 +1,1 @@
+cmd_drivers/atm/built-in.o :=  rm -f drivers/atm/built-in.o; /home/chiehyang/PandaBoard-LinuxKernel/stable-kernel/dl/gcc-linaro-arm-linux-gnueabihf-4.7-2013.04-20130415_linux/bin/arm-linux-gnueabihf-ar rcsD drivers/atm/built-in.o

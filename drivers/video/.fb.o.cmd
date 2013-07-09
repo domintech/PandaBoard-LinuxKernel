@@ -1,0 +1,1 @@
+cmd_drivers/video/fb.o := /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/video/fb.o drivers/video/fbmem.o drivers/video/fbmon.o drivers/video/fbcmap.o drivers/video/fbsysfs.o drivers/video/modedb.o drivers/video/fbcvt.o 

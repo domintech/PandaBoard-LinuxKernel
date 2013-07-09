@@ -1,0 +1,1 @@
+cmd_net/wireless/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o net/wireless/built-in.o net/wireless/wext-core.o net/wireless/wext-proc.o net/wireless/wext-spy.o 

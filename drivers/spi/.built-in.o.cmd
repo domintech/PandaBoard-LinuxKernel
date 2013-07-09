@@ -1,0 +1,1 @@
+cmd_drivers/spi/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/spi/built-in.o drivers/spi/spi.o drivers/spi/spi-omap2-mcspi.o 

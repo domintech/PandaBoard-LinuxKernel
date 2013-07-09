@@ -1,0 +1,6 @@
+kernel/drivers/net/wireless/libertas/libertas.ko
+kernel/drivers/net/wireless/libertas/usb8xxx.ko
+kernel/drivers/net/wireless/libertas/libertas_sdio.ko
+kernel/drivers/net/can/can-dev.ko
+kernel/drivers/net/can/c_can/c_can.ko
+kernel/drivers/net/can/c_can/c_can_platform.ko

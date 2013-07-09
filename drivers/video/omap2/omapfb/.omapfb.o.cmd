@@ -1,0 +1,1 @@
+cmd_drivers/video/omap2/omapfb/omapfb.o := /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/video/omap2/omapfb/omapfb.o drivers/video/omap2/omapfb/omapfb-main.o drivers/video/omap2/omapfb/omapfb-sysfs.o drivers/video/omap2/omapfb/omapfb-ioctl.o 

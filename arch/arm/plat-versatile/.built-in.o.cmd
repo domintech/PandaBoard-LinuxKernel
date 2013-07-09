@@ -1,0 +1,1 @@
+cmd_arch/arm/plat-versatile/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o arch/arm/plat-versatile/built-in.o arch/arm/plat-versatile/clcd.o arch/arm/plat-versatile/sched-clock.o arch/arm/plat-versatile/headsmp.o arch/arm/plat-versatile/platsmp.o 

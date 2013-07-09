@@ -1,0 +1,1 @@
+cmd_drivers/ata/libata.o := /home/chiehyang/PandaBoard-LinuxKernel/stable-kernel/dl/gcc-linaro-arm-linux-gnueabihf-4.7-2013.04-20130415_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/ata/libata.o drivers/ata/libata-core.o drivers/ata/libata-scsi.o drivers/ata/libata-eh.o drivers/ata/libata-transport.o drivers/ata/libata-sff.o drivers/ata/libata-pmp.o 

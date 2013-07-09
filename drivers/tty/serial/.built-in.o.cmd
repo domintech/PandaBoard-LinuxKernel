@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/tty/serial/built-in.o drivers/tty/serial/serial_core.o drivers/tty/serial/8250/built-in.o drivers/tty/serial/amba-pl011.o drivers/tty/serial/omap-serial.o 

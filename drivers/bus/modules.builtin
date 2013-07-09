@@ -1,0 +1,2 @@
+kernel/drivers/bus/omap_l3_smx.ko
+kernel/drivers/bus/omap_l3_noc.ko

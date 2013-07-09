@@ -1,0 +1,1 @@
+cmd_drivers/bluetooth/hci_uart.o := /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/bluetooth/hci_uart.o drivers/bluetooth/hci_ldisc.o drivers/bluetooth/hci_h4.o drivers/bluetooth/hci_bcsp.o drivers/bluetooth/hci_ll.o 

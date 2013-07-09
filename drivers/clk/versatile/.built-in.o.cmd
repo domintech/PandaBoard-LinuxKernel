@@ -1,0 +1,1 @@
+cmd_drivers/clk/versatile/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/clk/versatile/built-in.o drivers/clk/versatile/clk-icst.o drivers/clk/versatile/clk-vexpress.o drivers/clk/versatile/clk-vexpress-osc.o 

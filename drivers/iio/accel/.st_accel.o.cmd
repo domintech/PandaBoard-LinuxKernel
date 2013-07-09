@@ -1,0 +1,1 @@
+cmd_drivers/iio/accel/st_accel.o := /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/iio/accel/st_accel.o drivers/iio/accel/st_accel_core.o drivers/iio/accel/st_accel_buffer.o 

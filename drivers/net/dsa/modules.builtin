@@ -1,0 +1,2 @@
+kernel/drivers/net/dsa/mv88e6060.ko
+kernel/drivers/net/dsa/mv88e6xxx_drv.ko

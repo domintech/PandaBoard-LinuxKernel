@@ -1,0 +1,4 @@
+kernel/sound/soc/omap/snd-soc-omap.ko
+kernel/sound/soc/omap/snd-soc-omap-mcbsp.ko
+kernel/sound/soc/omap/snd-soc-omap-twl4030.ko
+kernel/sound/soc/omap/snd-soc-omap3pandora.ko

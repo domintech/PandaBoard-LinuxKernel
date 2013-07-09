@@ -1,0 +1,1 @@
+cmd_drivers/clocksource/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/clocksource/built-in.o drivers/clocksource/mmio.o drivers/clocksource/arm_arch_timer.o 

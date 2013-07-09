@@ -1,0 +1,1 @@
+cmd_drivers/net/built-in.o :=  /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/net/built-in.o drivers/net/mii.o drivers/net/Space.o drivers/net/loopback.o drivers/net/phy/built-in.o drivers/net/ethernet/built-in.o drivers/net/wireless/built-in.o drivers/net/usb/built-in.o 

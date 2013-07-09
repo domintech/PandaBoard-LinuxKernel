@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/ti/ti_cpsw.o := /home/chiehyang/PandaBoard-LinuxKernel/gcc-linaro-arm-linux-gnueabihf-4.7-2013.03-20130313_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o drivers/net/ethernet/ti/ti_cpsw.o drivers/net/ethernet/ti/cpsw_ale.o drivers/net/ethernet/ti/cpsw.o drivers/net/ethernet/ti/cpts.o 

@@ -1,0 +1,2 @@
+kernel/drivers/rtc/rtc-omap.ko
+kernel/drivers/rtc/rtc-twl.ko
